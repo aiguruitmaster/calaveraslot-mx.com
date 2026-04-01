@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://calaveraslot-mx.com/sitemap.xml
